@@ -1,4 +1,4 @@
-## Hey there 👋, I am Gayathri 
+<h1 align="center"> Hey there 👋, I'm Gayathri</h1>
 
 **`Data Analyst`**
 
